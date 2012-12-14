@@ -1,0 +1,6 @@
+﻿ - Calcular a distancia entre letras
+ - O calculo vai utilizar os valores do ASC
+ - Calcular a menor ditancia
+ - Instanciar varios nomes
+ - Quando não der para comparar a letra, o valor default é 13
+ - Ignorar case
